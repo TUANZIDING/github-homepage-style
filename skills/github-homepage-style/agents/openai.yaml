@@ -1,0 +1,6 @@
+interface:
+  display_name: "个人GitHub首页布局"
+  short_description: "沿用念景版双语首页结构，统一主图、导航、成果展示与使用入口"
+  default_prompt: "使用 $github-homepage-style 按我保存的个人布局整理这个GitHub仓库首页。"
+policy:
+  allow_implicit_invocation: true

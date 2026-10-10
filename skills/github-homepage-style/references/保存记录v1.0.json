@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "savedDate": "2026-10-10",
+  "purpose": "用户保存个人GitHub首页默认布局，以后整理仓库时复用结构并按主题调整内容。",
+  "baseline": {
+    "repository": "https://github.com/TUANZIDING/nianjing",
+    "version": "v0.2.1",
+    "commit": "150aaf3e7e82ab764374b16ab113c3f3afe35071",
+    "file": "README.md",
+    "snapshot": "念景首页基准v0.2.1.md",
+    "originalSha256": "b30c0f44ed87a5c250bb06ec72fcd8489b253600eb7641ce3bb25d3d119e74b7",
+    "snapshotSha256": "83c1644860838bf7c9b0ef0e4758606ca285858c3fb44af9e746db951816ac52",
+    "publicAdjustment": "Original relative links now target the pinned public Nianjing commit. No original media is copied."
+  },
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1067,
+      "sha256": "16ccbca49efeef9f2ec218284a76038c081e38dc0278ebd3b5ab73e1183b24d2"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 3796,
+      "sha256": "1a1ca04af02a91422bfd00e6b5ff24fe42f9ef7b78026f0b08ee35b753a750e5"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 318,
+      "sha256": "ec7e12ec6b7636deae7543f832d9246c15d503381e9955b8b09406cd58cd027a"
+    },
+    {
+      "path": "assets/中文首页模板v1.0.md",
+      "bytes": 4330,
+      "sha256": "6f4f9ce05ca5f2bd22f35e6e57d3de44007d0c82e05f8076c85ae91c6dac61eb"
+    },
+    {
+      "path": "assets/英文首页模板v1.0.md",
+      "bytes": 4439,
+      "sha256": "00f3d6dbdc1187be45d2685bc232278a1d0014377ad5c34092b86dcdf2a79459"
+    },
+    {
+      "path": "references/布局规范v1.0.md",
+      "bytes": 4196,
+      "sha256": "fbe23efc722a2c1afc78fb9d60726a8c9c4c15e7694a8d8b441619c6efc45bf3"
+    },
+    {
+      "path": "references/念景首页基准v0.2.1.md",
+      "bytes": 12045,
+      "sha256": "83c1644860838bf7c9b0ef0e4758606ca285858c3fb44af9e746db951816ac52"
+    }
+  ],
+  "naming": "All autonomously named documents have version suffixes and no underscores. SKILL.md and agents/openai.yaml are Codex-required fixed names.",
+  "publication": "Portable public skill package; personal Codex settings and memory are excluded."
+}

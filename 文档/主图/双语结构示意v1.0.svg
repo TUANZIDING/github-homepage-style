@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850" role="img" aria-labelledby="title desc"><title id="title">One structure, two languages</title><desc id="desc">Chinese and English conceptual pages share artwork, title, navigation, use cases, examples, quick start and capability sections.</desc><rect width="1600" height="850" rx="24" fill="#f2f5f1"/><g font-family="Arial,sans-serif"><text x="70" y="69" font-size="32" fill="#2b454d" font-weight="700">One structure, two languages.</text><text x="70" y="105" font-size="18" fill="#6b7f80">A layout diagram, not a product screenshot.</text>
+<rect x="70" y="143" width="680" height="640" rx="15" fill="#fffdf8" stroke="#d9e1dc"/><text x="98" y="181" font-size="16" fill="#506b72" letter-spacing="2">ZH / Chinese</text>
+<rect x="97" y="201" width="626" height="118" rx="7" fill="#3e5d64"/>
+<path d="M97 298L226 231L340 275L515 225L723 272V319H97Z" fill="#83a29a" opacity=".5"/>
+<text x="410" y="265.0" text-anchor="middle" font-size="14" letter-spacing="2" fill="#edf4ee">ARTWORK</text>
+<rect x="97" y="328" width="626" height="67" rx="7" fill="#f0e5ce"/>
+<text x="410" y="366.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">TITLE + NAVIGATION</text>
+<rect x="97" y="404" width="626" height="59" rx="7" fill="#e6ede7"/>
+<text x="410" y="438.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">USE CASES</text>
+<rect x="97" y="472" width="626" height="89" rx="7" fill="#e6ede7"/>
+<text x="410" y="521.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">RESULTS / EXAMPLES</text>
+<rect x="97" y="570" width="626" height="72" rx="7" fill="#f0e5ce"/>
+<text x="410" y="611.0" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">QUICK START</text>
+<rect x="97" y="651" width="626" height="61" rx="7" fill="#e6ede7"/>
+<text x="410" y="686.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">WORKFLOW + STATUS</text>
+<rect x="97" y="721" width="626" height="49" rx="7" fill="#e6ede7"/>
+<text x="410" y="750.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">CONTRIBUTE + SOURCES</text>
+<rect x="850" y="143" width="680" height="640" rx="15" fill="#fffdf8" stroke="#d9e1dc"/><text x="878" y="181" font-size="16" fill="#506b72" letter-spacing="2">EN / English</text>
+<rect x="877" y="201" width="626" height="118" rx="7" fill="#3e5d64"/>
+<path d="M877 298L1006 231L1120 275L1295 225L1503 272V319H877Z" fill="#83a29a" opacity=".5"/>
+<text x="1190" y="265.0" text-anchor="middle" font-size="14" letter-spacing="2" fill="#edf4ee">ARTWORK</text>
+<rect x="877" y="328" width="626" height="67" rx="7" fill="#f0e5ce"/>
+<text x="1190" y="366.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">TITLE + NAVIGATION</text>
+<rect x="877" y="404" width="626" height="59" rx="7" fill="#e6ede7"/>
+<text x="1190" y="438.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">USE CASES</text>
+<rect x="877" y="472" width="626" height="89" rx="7" fill="#e6ede7"/>
+<text x="1190" y="521.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">RESULTS / EXAMPLES</text>
+<rect x="877" y="570" width="626" height="72" rx="7" fill="#f0e5ce"/>
+<text x="1190" y="611.0" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">QUICK START</text>
+<rect x="877" y="651" width="626" height="61" rx="7" fill="#e6ede7"/>
+<text x="1190" y="686.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">WORKFLOW + STATUS</text>
+<rect x="877" y="721" width="626" height="49" rx="7" fill="#e6ede7"/>
+<text x="1190" y="750.5" text-anchor="middle" font-size="14" letter-spacing="2" fill="#4f696f">CONTRIBUTE + SOURCES</text>
+<path d="M773 450H827M773 470H827" stroke="#b8945a" stroke-width="4" stroke-linecap="round"/><text x="800" y="822" text-anchor="middle" font-size="13" fill="#698078" letter-spacing="2">SHARED HIERARCHY · PROJECT-SPECIFIC CONTENT</text></g></svg>

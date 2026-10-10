@@ -1,0 +1,17 @@
+name: Skill package checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate portable skill and documentation
+        run: python3 验证/项目检查v1.0.py
